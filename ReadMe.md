@@ -11,17 +11,27 @@ An internet connection.
 Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
  
 ## Index
-<ol>
+<ol type="1">
     <li>
         <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
     </li>
-    <ol>
         <li>
-            <a href="/Kids-Coding/">Drawing shapes.</a>
-        </li>
-        1.1.1 Drawing a circle.
-        1.1.2 Drawing a line.
-        1.1.3 Drawing a rectangle.
-    </ol>
-    1.2 Coloring your shapes.
+            <ol type="1">
+            <li>
+                <a href="/Kids-Coding/">Drawing shapes.</a>
+            </li>
+            <li>
+                <a href="/Kids-Coding/">Drawing a circle.</a>
+            </li>
+            <li>
+                <a href="/Kids-Coding/">Drawing a line.</a>
+            </li>
+            <li>
+                <a href="/Kids-Coding/">Drawing a rectangle.</a>
+            </li>
+        </ol>
+    </li>
+    <li>
+        1.2 Coloring your shapes.
+    <li>
 </ol>
