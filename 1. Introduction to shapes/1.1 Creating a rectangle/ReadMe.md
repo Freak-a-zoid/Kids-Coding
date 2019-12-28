@@ -11,3 +11,6 @@ The function signature is circle( x, y, w, h ) where:
   - h the height of the rectangle
 
 For example the function call rect( 50, 50, 75, 60 ) will create a rectangle at position x = 50, y = 50, w = 75, h = 60.
+
+Example:
+<object src="Example.js"></object>
