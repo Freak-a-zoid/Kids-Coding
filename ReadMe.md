@@ -26,7 +26,7 @@ Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
             <a href="/Kids-Coding/">Drawing a line.</a>
         </li>
         <li>
-            <a href="/Kids-Coding/">Drawing a rectangle.</a>
+            <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/1.1%20Creating%20a%20rectangle">Drawing a rectangle.</a>
         </li>
     </ol>
     <li>
