@@ -1,3 +1,4 @@
+``` javascript
 function setup() {
   createCanvas(400, 400);
 }
@@ -8,3 +9,4 @@ function draw() {
   // Add code to draw shapes here:
   rect( 100, 150, 20, 20 );
 }
+```
