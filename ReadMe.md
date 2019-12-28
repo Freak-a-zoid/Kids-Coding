@@ -11,9 +11,13 @@ An internet connection.
 Using the p5.js Web Editor https://editor.p5js.org/
  
 ## Index
-[1. Introduction to shapes.](/1.%20Introduction%20to%20shapes/)
+<ol>
+ <li>
+  [Introduction to shapes.](/1.%20Introduction%20to%20shapes/)
+ </li>
     [1.1 Drawing shapes.]
         1.1.1 Drawing a circle.
         1.1.2 Drawing a line.
         1.1.3 Drawing a rectangle.
     1.2 Coloring your shapes.
+</ol>
