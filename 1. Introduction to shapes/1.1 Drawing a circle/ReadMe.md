@@ -6,6 +6,7 @@ This function contains 4 parameters (order is preserved):
   - a y coordinate
   - the width of the circle
   - the height of the circle
+  
 Thus, the signature of the function is: circle( x_coordinate, y_coordinate, width, height );
 
 For example the function call
