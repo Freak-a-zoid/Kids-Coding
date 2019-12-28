@@ -8,14 +8,16 @@ Child will learn a professional popular programming language JavaScript.
  
 ## Requirements
 An internet connection.
-Using the p5.js Web Editor https://editor.p5js.org/
+Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
  
 ## Index
 <ol>
- <li>
-  [Introduction to shapes.](/1.%20Introduction%20to%20shapes/)
- </li>
-    [1.1 Drawing shapes.]
+    <li>
+        <p>[Introduction to shapes.](/Kids-Coding/1.%20Introduction%20to%20shapes/)</p>
+    </li>
+    <li>
+        [1.1 Drawing shapes.]()
+    </li>
         1.1.1 Drawing a circle.
         1.1.2 Drawing a line.
         1.1.3 Drawing a rectangle.
