@@ -5,10 +5,6 @@ function setup() {
 function draw() {
   background(220);
   
-  // Add code to create shapes here.
-  // Circle call contains 3 parameters:
-  // x coordinate/position.
-  // y coordinate/position.
-  // diameter
+  // Add code to draw shapes here:
   circle( 200, 200, 75 );
 }
