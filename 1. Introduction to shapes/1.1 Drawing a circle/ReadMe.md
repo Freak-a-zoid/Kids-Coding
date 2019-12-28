@@ -1,4 +1,4 @@
-# 1.1 Drawing a circle.
+# Drawing a circle.
 
 To draw a circle we need to make call the library function circle().
 
