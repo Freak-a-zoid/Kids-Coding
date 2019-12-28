@@ -13,7 +13,7 @@ Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
 ## Index
 <ol>
     <li>
-        <p>[Introduction to shapes.](/Kids-Coding/1.%20Introduction%20to%20shapes/)</p>
+        <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
     </li>
     <li>
         [1.1 Drawing shapes.]()
