@@ -17,3 +17,5 @@ Using the p5.js Web Editor https://editor.p5js.org/
   1.1.2 Drawing a line.
   1.1.3 Drawing a rectangle.
  1.2 Coloring your shapes.
+
+[Drawing Shapes](/1.1 Introduction to shapes/ReadMe.md)
