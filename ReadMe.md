@@ -33,5 +33,5 @@ Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
     </ol>
     <li>
         1.2 Coloring your shapes.
-    <li>
+    </li>
 </ol>
