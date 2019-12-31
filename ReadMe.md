@@ -19,19 +19,17 @@ Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
         <li>
             <a href="/Kids-Coding/">Drawing shapes.</a>
         </li>
-        <li>
-          <ol type="1">
-            <li>
-              <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/Drawing%20a%20circle">Drawing a circle.</a>
-            </li>
-            <li>
-              <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.2%20Drawing%20a%20line">Drawing a line.</a>
-            </li>
-            <li>
-              <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.3%Drawing%20a%20rectangle">Drawing a rectangle.</a>
-            </li>
-          </ol>
-        </li>
+        <ol type="1">
+          <li>
+            <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/Drawing%20a%20circle">Drawing a circle.</a>
+          </li>
+          <li>
+            <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.2%20Drawing%20a%20line">Drawing a line.</a>
+          </li>
+          <li>
+            <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.3%Drawing%20a%20rectangle">Drawing a rectangle.</a>
+          </li>
+        </ol>
     </ol>
     <li>
         1.2 Coloring your shapes.
