@@ -12,3 +12,6 @@ The function signature is line( x1, y1, x2, y2 ) where:
 
 For example, the function call line( 50, 50, 75, 60 ) will create a line starting at position x1 = 50, y1 = 50 and
 ending at position x2 = 75, y2 = 60.
+
+Example:
+<code><object data="Example.js" width="600" height="600"></object></code>
