@@ -31,13 +31,11 @@ Child will learn a professional popular programming language JavaScript.
             <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.3%20Drawing%20a%20rectangle">Drawing a rectangle.</a>
           </li>
         </ol>
-    </ol>
-    <ol>
-      <li>
-        Coloring your shapes.
-      </li>
-      <ol>
+        <li>
+          Coloring your shapes.
+        </li>
+        <ol>
           <li>Filling shapes with color.</li>
-      </ol>
+        </ol>
     </ol>
 </ol>
