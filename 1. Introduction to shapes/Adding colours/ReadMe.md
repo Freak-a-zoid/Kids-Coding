@@ -19,5 +19,5 @@ will be drawn red.
 
 Example:
 <div>
-  <code><object data="Example.js" width="400" height="200"></object></code>
+  <code><object data="Example.js" width="400" height="300"></object></code>
 </div>
