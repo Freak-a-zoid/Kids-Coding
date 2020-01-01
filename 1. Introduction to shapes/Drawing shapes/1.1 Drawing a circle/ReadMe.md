@@ -2,7 +2,7 @@
 
 To draw a circle we need to make call the library function circle().
 
-https://p5js.org/reference/#/p5/circle
+<a href="https://p5js.org/reference/#/p5/circle">https://p5js.org/reference/#/p5/circle.</a>
 
 The signature of the function is circle( x, y, d ) where
   - x coordinate/position of the circle
