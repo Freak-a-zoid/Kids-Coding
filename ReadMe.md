@@ -8,8 +8,8 @@ This tutorial is for teaching children to learn programming at a young age. The 
 Child will learn a professional popular programming language JavaScript.
 
 ## Requirements
-An internet connection.
-Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
+- An internet connection.
+- Access to the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
 
 ## Index
 <ol type="1">
