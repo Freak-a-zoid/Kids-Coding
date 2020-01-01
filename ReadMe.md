@@ -16,7 +16,7 @@ Child will learn a professional popular programming language JavaScript.
   <li>
     <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
   </li>
-  <script src="Introduction-to-shapes-nav.js"></script>
+  <script src="/Kids-Coding/1.%20Introduction%20to%20shapes/Introduction-to-shapes-nav.js"></script>
   <li>
     Coloring your shapes.
   </li>
