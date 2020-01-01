@@ -21,6 +21,8 @@ Child will learn a professional popular programming language JavaScript.
     Coloring your shapes.
   </li>
   <ol>
-    <li>Filling shapes with color.</li>
+    <li>
+      <a href="1.%20Introduction%20to%20shapes/Adding%20colours">Filling shapes with color.</a>
+    </li>
   </ol>
 </ol>
