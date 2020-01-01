@@ -13,4 +13,6 @@ For example the function call circle( 50, 50, 75 )
 will create a circle at screen position x = 50, y = 50, d = 75.
 
 Example:
-<code><object data="Example.js" width="600" height="600"></object></code>
+<div>
+  <code><object data="Example.js" width="400" height="200"></object></code>
+</div>
