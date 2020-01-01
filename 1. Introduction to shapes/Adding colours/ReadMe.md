@@ -9,6 +9,10 @@ The signature of the function is circle( r, g, b ) where
   - g is the green channel for the colour
   - b is the blue channel for the colour
 
+and each colour channel should be a value between 0 and 255.
+
+The value determines how much of the specified channel's colour will be added to the final result.
+
 For example the function call fill( 255, 0, 0 )
 will set the filling colour to red and all shapes drawn after this API call
 will be drawn red.
