@@ -14,7 +14,7 @@ Child will learn a professional popular programming language JavaScript.
 ## Index
 <ol type="1">
     <li>
-        <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
+      <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
     </li>
     <ol type="1">
         <li>
@@ -32,7 +32,12 @@ Child will learn a professional popular programming language JavaScript.
           </li>
         </ol>
     </ol>
-    <li>
-        1.2 Coloring your shapes.
-    </li>
+    <ol type="1">
+      <li>
+        Coloring your shapes.
+      </li>
+      <ol type="1">
+          <li>Filling shapes with color.</li>
+      </ol>
+    </ol>
 </ol>
