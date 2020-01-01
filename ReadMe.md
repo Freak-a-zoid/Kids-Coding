@@ -13,29 +13,14 @@ Child will learn a professional popular programming language JavaScript.
 
 ## Index
 <ol>
-    <li>
-      <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
-    </li>
-    <ol>
-        <li>
-            Drawing shapes.
-        </li>
-        <ol>
-          <li>
-            <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.1%20Drawing%20a%20circle">Drawing a circle.</a>
-          </li>
-          <li>
-            <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.2%20Drawing%20lines">Drawing a line.</a>
-          </li>
-          <li>
-            <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.3%20Drawing%20a%20rectangle">Drawing a rectangle.</a>
-          </li>
-        </ol>
-        <li>
-          Coloring your shapes.
-        </li>
-        <ol>
-          <li>Filling shapes with color.</li>
-        </ol>
-    </ol>
+  <li>
+    <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
+  </li>
+  <object data="/Kids-Coding/1.%20Introduction%20to%20shapes/nav.html"></object>
+  <li>
+    Coloring your shapes.
+  </li>
+  <ol>
+    <li>Filling shapes with color.</li>
+  </ol>
 </ol>
