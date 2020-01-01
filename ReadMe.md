@@ -9,7 +9,7 @@ Child will learn a professional popular programming language JavaScript.
 
 ## Requirements
 - An internet connection.
-- Access to the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
+- Access to the p5.js Web Editor. <a href="https://editor.p5js.org" target="_blank">https://editor.p5js.org/</a>
 
 ## Index
 <ol type="1">
