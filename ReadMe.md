@@ -18,7 +18,7 @@ Using the p5.js Web Editor [https://editor.p5js.org/](https://editor.p5js.org/)
     </li>
     <ol type="1">
         <li>
-            <a href="/Kids-Coding/">Drawing shapes.</a>
+            Drawing shapes.
         </li>
         <ol type="1">
           <li>
