@@ -12,15 +12,15 @@ Child will learn a professional popular programming language JavaScript.
 - Access to the p5.js Web Editor. <a href="https://editor.p5js.org" target="_blank">https://editor.p5js.org/</a>
 
 ## Index
-<ol type="1">
+<ol>
     <li>
       <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/" >Introduction to shapes.</a>
     </li>
-    <ol type="1">
+    <ol>
         <li>
             Drawing shapes.
         </li>
-        <ol type="1">
+        <ol>
           <li>
             <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Drawing%20shapes/1.1%20Drawing%20a%20circle">Drawing a circle.</a>
           </li>
@@ -32,11 +32,11 @@ Child will learn a professional popular programming language JavaScript.
           </li>
         </ol>
     </ol>
-    <ol type="1">
+    <ol>
       <li>
         Coloring your shapes.
       </li>
-      <ol type="1">
+      <ol>
           <li>Filling shapes with color.</li>
       </ol>
     </ol>
