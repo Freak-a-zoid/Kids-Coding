@@ -10,4 +10,4 @@ The API library calls for drawing the shapes should be added inside the draw() f
 
 Note: Remember instructions are executed in sequence one by one.
 
-<object data="nav.html" width="600" height="600"></object>
+<script src="/Kids-Coding/1.%20Introduction%20to%20shapes/Introduction-to-shapes-nav.js"></script>
