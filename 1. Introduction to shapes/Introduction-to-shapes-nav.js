@@ -21,11 +21,11 @@ document.write(
         </li> \
       </ol> \
       <li> \
-        Coloring your shapes. \
+        Colouring your shapes. \
       </li> \
       <ol> \
         <li> \
-          <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Adding%20colours/1.%20Colouring%20a%20shape">Filling shapes with color.</a> \
+          <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Adding%20colours/1.%20Colouring%20a%20shape">Filling shapes with colour.</a> \
         </li> \
         <li> \
           <a href="/Kids-Coding/1.%20Introduction%20to%20shapes/Adding%20colours/2.%20Colouring%20multiple%20shapes">Colouring multiple shapes.</a> \
