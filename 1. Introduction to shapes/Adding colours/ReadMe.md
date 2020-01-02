@@ -18,19 +18,19 @@ will set the colour to red and all shapes drawn after this API call will be draw
 
 Example 1:
 <div>
-  <code><object data="Example-1.js" width="400" height="300"></object></code>
+  <code><object data="Example-1.js" width="500" height="300"></object></code>
 </div>
 
 To make our shapes blue, we need to call fill with the blue channel at 255 and 0 for both red and green channels.
 
 Example 2:
 <div>
-  <code><object data="Example-2.js" width="400" height="300"></object></code>
+  <code><object data="Example-2.js" width="500" height="300"></object></code>
 </div>
 
 We can also mix our colour channels to make more interesting colours.
 
 Example 3:
 <div>
-  <code><object data="Example-3.js" width="400" height="300"></object></code>
+  <code><object data="Example-3.js" width="500" height="300"></object></code>
 </div>
