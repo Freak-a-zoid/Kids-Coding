@@ -4,12 +4,11 @@ To add color to the shapes we draw we need call the library function fill().
 
 <a href="https://p5js.org/reference/#/p5/fill" target="_blank">https://p5js.org/reference/#/p5/fill</a>
 
-<div style="background-color: lightblue">
 The signature of the function is circle( r, g, b ) where
   - r is the green channel for the colour
   - g is the green channel for the colour
   - b is the blue channel for the colour
-</div>
+
 and each colour channel should be a value between 0 and 255.
 
 The value determines how much of the specified channel's colour will be added to the final result.
@@ -18,6 +17,6 @@ For example the function call fill( 255, 0, 0 )
 will set the colour to red and all shapes drawn after this API call will be drawn red.
 
 Example:
-<div style="background-color: lightblue">
+<div>
   <code><object data="Example.js" width="400" height="300"></object></code>
 </div>
